@@ -34,11 +34,15 @@ I build practical AI agents, chatbots, workflow automations, and API integration
 - Databases
 - Model Context Protocol
 
-## Featured Project
+## Featured Projects
 
 ### [AI Lead Enrichment and Qualification System](https://github.com/joshuaakanni/ai-lead-enrichment-qualification-system)
 
 An AI-powered n8n workflow that reviews lead records, generates business descriptions, scores lead quality, and classifies prospects as HOT, WARM, or COLD using OpenAI and Google Sheets.
+
+### [AI Healthcare Appointment Management System](https://github.com/joshuaakanni/ai-healthcare-appointment-management-system)
+
+A Voice AI healthcare receptionist built with n8n and MCP that supports patient lookup, patient creation, appointment availability, booking, retrieval, rescheduling, and cancellation through a connected EHR API.
 
 ## Current Focus
 
