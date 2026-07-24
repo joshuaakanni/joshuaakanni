@@ -48,6 +48,10 @@ A Voice AI healthcare receptionist built with n8n and MCP that supports patient 
 
 A deployment-ready real estate assistant built with Voiceflow, n8n, and Google Sheets for property discovery, tour requests, incentive inquiries, callback scheduling, validation, timezone conversion, and structured lead management.
 
+### [AI Cold Email Outreach System](https://github.com/joshuaakanni/ai-cold-email-outreach-system)
+
+A working n8n outreach automation that reads cold leads from Google Sheets, generates personalized AI-written emails, creates Google Docs records, sends messages through SMTP, posts Telegram notifications, and tracks lead status.
+
 ## Current Focus
 
 - Building reliable AI automation systems for real business workflows
