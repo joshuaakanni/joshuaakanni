@@ -44,6 +44,10 @@ An AI-powered n8n workflow that reviews lead records, generates business descrip
 
 A Voice AI healthcare receptionist built with n8n and MCP that supports patient lookup, patient creation, appointment availability, booking, retrieval, rescheduling, and cancellation through a connected EHR API.
 
+### [AI Realtor Assistant](https://github.com/joshuaakanni/ai-realtor-assistant)
+
+A deployment-ready real estate assistant built with Voiceflow, n8n, and Google Sheets for property discovery, tour requests, incentive inquiries, callback scheduling, validation, timezone conversion, and structured lead management.
+
 ## Current Focus
 
 - Building reliable AI automation systems for real business workflows
@@ -53,5 +57,6 @@ A Voice AI healthcare receptionist built with n8n and MCP that supports patient 
 ## Open to Opportunities
 
 I am open to freelance projects, contract work, remote roles, and collaborations involving AI automation, n8n workflows, AI agents, chatbots, API integrations, and business process automation.
+
 
 View my work: [blanyx.com](https://blanyx.com)
