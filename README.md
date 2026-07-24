@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Joshua Asegunloluwa Akanni
 
-<!--
-**joshuaakanni/joshuaakanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation Specialist | n8n Workflow Developer | AI Agent Builder
 
-Here are some ideas to get you started:
+I build practical AI agents, chatbots, workflow automations, and API integrations that help businesses improve lead management, customer support, scheduling, communication, and operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: [blanyx.com](https://blanyx.com)
+
+## What I Build
+
+- AI agents and business chatbots
+- n8n and Make workflow automations
+- Lead enrichment and qualification systems
+- Customer support and escalation workflows
+- Appointment and scheduling systems
+- API, webhook, CRM, and Google Workspace integrations
+
+## Tools and Technologies
+
+- n8n
+- Make
+- Voiceflow
+- OpenAI
+- Google Sheets
+- Google Drive
+- Gmail
+- Tally
+- REST APIs
+- Webhooks
+- JavaScript
+- JSON
+- CRM platforms
+- Scheduling systems
+- Databases
+- Model Context Protocol
+
+## Featured Project
+
+### [AI Lead Enrichment and Qualification System](https://github.com/joshuaakanni/ai-lead-enrichment-qualification-system)
+
+An AI-powered n8n workflow that reviews lead records, generates business descriptions, scores lead quality, and classifies prospects as HOT, WARM, or COLD using OpenAI and Google Sheets.
+
+## Current Focus
+
+- Building reliable AI automation systems for real business workflows
+- Improving my skills in n8n, AI agents, APIs, and workflow architecture
+- Creating well-documented portfolio projects for freelance and remote opportunities
+
+## Open to Opportunities
+
+I am open to freelance projects, contract work, remote roles, and collaborations involving AI automation, n8n workflows, AI agents, chatbots, API integrations, and business process automation.
+
+View my work: [blanyx.com](https://blanyx.com)
